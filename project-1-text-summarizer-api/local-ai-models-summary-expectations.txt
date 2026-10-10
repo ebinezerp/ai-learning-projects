@@ -1,0 +1,11 @@
+Given Summary: 
+
+In summary, local AI models allow users to run intelligent applications directly on their own machines. They provide privacy, offline operation, and low-cost experimentation. Their main limitations are hardware requirements, model quality, and lack of automatically updated information. They are especially useful for learning AI and building prototypes before moving to larger cloud-based systems.
+
+
+Own Summary:
+
+* Local models run in local systems using small models
+* For experiments, learning 
+* For sensitive and small tasks
+* Cloud for large data using larger models

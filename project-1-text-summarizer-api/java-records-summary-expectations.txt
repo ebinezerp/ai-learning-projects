@@ -1,0 +1,12 @@
+Given Summary: 
+
+In summary, Java records reduce boilerplate, improve readability, and make data-oriented programming easier. They automatically provide many common methods and encourage developers to model simple values clearly. However, developers should still choose regular classes when an object requires mutable state, inheritance patterns, persistence behavior, or more complex lifecycle management.
+
+
+Own Summary: 
+
+* Records reduces the boilerplate
+* It mostly for carrying the data like DTOs
+* These are better for immutable objects not for data persistence layer
+* But these are customizable to define vaildations and business logic
+* Records works well with modern java 

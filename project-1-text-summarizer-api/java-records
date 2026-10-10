@@ -1,0 +1,18 @@
+Java records were introduced to reduce boilerplate when creating classes whose main purpose is to carry data. In traditional Java, even a simple data object can require fields, a constructor, getter methods, and implementations of equals, hashCode, and toString. A record allows developers to represent the same idea with much less code.
+
+Consider an application that needs a Customer object containing an id, name, and email address. A traditional class may require several lines of repetitive code. With a record, the developer can declare those components directly in the record definition. Java automatically generates private final fields, accessor methods, a constructor, equals, hashCode, and toString.
+
+Records are especially useful for DTOs, API responses, configuration objects, messages, and values that should primarily represent data. Because record components are final, records encourage immutability. After a record is created, its component references cannot be reassigned.
+
+However, records are not completely immutable in every situation. If a record contains a mutable object such as a List, the reference itself cannot be replaced, but the contents of that List may still be changed. Developers must therefore think carefully about the types stored inside a record.
+
+Records can also contain validation logic. A developer can define a compact constructor and verify that values meet required conditions. For example, an Employee record could reject a negative salary or an empty employee name.
+
+Records are not intended to replace every normal Java class. Domain entities often have changing state and complex behavior. JPA entities also commonly rely on requirements such as mutable fields and lifecycle management, making ordinary classes more suitable in many persistence scenarios.
+
+One advantage of records is that they clearly communicate intent. When a developer sees a record, it immediately suggests that the type mainly represents a collection of related values rather than an object with complicated mutable behavior.
+
+Records also work well with pattern matching and other modern Java features. As Java continues to evolve, records have become an important part of writing concise and expressive code.
+
+A good developer should therefore view records as a specialized language feature rather than a universal replacement for classes. They are most valuable when the application needs a simple, immutable-style data carrier with predictable behavior.
+

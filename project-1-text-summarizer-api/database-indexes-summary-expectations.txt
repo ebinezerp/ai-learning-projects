@@ -1,0 +1,12 @@
+Given Summary: 
+
+In summary, database indexes improve query performance by allowing databases to locate data without scanning every row. They are extremely important for large tables and frequently searched columns. At the same time, indexes consume storage and increase the cost of writes. Effective database design requires balancing read performance, write performance, storage usage, and actual application query patterns.
+
+
+Expected Summary: 
+
+1. data structure
+2. not full scan/examine 
+3. quick/fast search 
+4. Frequent search columns
+5. Fast read/slow writes - cost 
