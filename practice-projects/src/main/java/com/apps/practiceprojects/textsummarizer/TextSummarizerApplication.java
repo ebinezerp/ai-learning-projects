@@ -1,4 +1,4 @@
-package com.apps.textsummarizer;
+package com.apps.practiceprojects.textsummarizer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

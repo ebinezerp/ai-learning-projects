@@ -1,0 +1,10 @@
+Instructions: 
+                
+1. Keep the summary under %d characters.
+2. Focus on the main points and key information.
+3. Avoid unnecessary details or repetition.
+4. Use clear and simple language.
+5. Ensure the summary is coherent and easy to understand
+6. Avoid introducing new information or opinions.
+7. Use proper grammar and punctuation.
+8. Don't hallucinate or make up information.

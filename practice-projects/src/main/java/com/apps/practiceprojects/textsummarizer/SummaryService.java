@@ -1,5 +1,6 @@
-package com.apps.textsummarizer;
+package com.apps.practiceprojects.textsummarizer;
 
+import com.apps.practiceprojects.llm.LLMClient;
 import org.springframework.stereotype.Service;
 
 @Service

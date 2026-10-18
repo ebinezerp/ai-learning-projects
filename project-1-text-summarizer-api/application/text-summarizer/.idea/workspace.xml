@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f084bfdf-93ad-48b6-a97e-52ff59c8f592" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/apps/textsummarizer/LLMClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/apps/textsummarizer/OllamaOptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/apps/textsummarizer/OllamaRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/apps/textsummarizer/OllamaResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/apps/textsummarizer/SummaryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/apps/textsummarizer/SummaryRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/apps/textsummarizer/SummaryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/apps/textsummarizer/TextSummarizerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/apps/textsummarizer/TextSummarizerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/apps/textsummarizer/LLMClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/apps/textsummarizer/OllamaOptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/apps/textsummarizer/OllamaRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/apps/textsummarizer/OllamaResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/apps/textsummarizer/SummaryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/apps/textsummarizer/SummaryRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/apps/textsummarizer/SummaryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/apps/textsummarizer/TextSummarizerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/apps/textsummarizer/TextSummarizerApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/initial-request.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rough-notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../rough-notes.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="14" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTTP Request" />
+        <option value="Record" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ebinezerp&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ebinezerp/ai-learning-projects.git&quot;,
+    &quot;accountId&quot;: &quot;345e9247-b6ca-4753-8f5d-0a33925901fc&quot;
+  }
+}</component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1350804315425187" />
+      <entry key="MS500" value="2.5723698944410103" />
+      <entry key="S2" value="5.304777132190558" />
+      <entry key="S5" value="8.389996544540054" />
+      <entry key="S10" value="13.073457384183929" />
+      <entry key="S30" value="27.471551496234554" />
+      <entry key="S60" value="39.671722227733625" />
+      <entry key="M2" value="49.937698353098774" />
+      <entry key="M5" value="58.399870835589944" />
+      <entry key="M10" value="61.87693772609121" />
+      <entry key="M15" value="63.15973880463237" />
+      <entry key="M30" value="64.5271057867869" />
+      <entry key="H1" value="65.2487874088723" />
+      <entry key="H2" value="65.62047812780584" />
+      <entry key="H4" value="65.80923022335227" />
+      <entry key="D1" value="66.65840272954745" />
+      <entry key="W1" value="113.74096742707461" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.863493107475515E-170" />
+      <entry key="MS500" value="1.2341820576509228E-34" />
+      <entry key="S2" value="3.333072858384723E-9" />
+      <entry key="S5" value="4.065724275619371E-4" />
+      <entry key="S10" value="0.02016364122776284" />
+      <entry key="S30" value="0.27218009146281164" />
+      <entry key="S60" value="0.5219656915461814" />
+      <entry key="M2" value="0.7500448657444811" />
+      <entry key="M5" value="1.3388149716415723" />
+      <entry key="M10" value="2.112786410180601" />
+      <entry key="M15" value="2.5642068495237726" />
+      <entry key="M30" value="3.173984153960167" />
+      <entry key="H1" value="3.5555954151242837" />
+      <entry key="H2" value="3.7693252558351578" />
+      <entry key="H4" value="3.8824611798159694" />
+      <entry key="D1" value="4.191781670544126" />
+      <entry key="W1" value="17.44504254079951" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0434779741184568" />
+      <entry key="MS500" value="2.496821365896418" />
+      <entry key="S2" value="5.250869757835438" />
+      <entry key="S5" value="8.351376150563478" />
+      <entry key="S10" value="13.055284303044626" />
+      <entry key="S30" value="27.69463045418518" />
+      <entry key="S60" value="40.15235263004963" />
+      <entry key="M2" value="50.659873115066524" />
+      <entry key="M5" value="59.72268002986056" />
+      <entry key="M10" value="63.97903304603311" />
+      <entry key="M15" value="65.71580234089006" />
+      <entry key="M30" value="67.69633866538547" />
+      <entry key="H1" value="68.80179563991778" />
+      <entry key="H2" value="69.38845067729048" />
+      <entry key="H4" value="69.6909994191262" />
+      <entry key="D1" value="70.85005462620617" />
+      <entry key="W1" value="131.18586935097352" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KAYZMq7GxD1gzJrabsKikKLp9z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP Request.initial-request | #1.executor": "Run",
+    "HTTP Request.initial-request | #2.executor": "Run",
+    "HTTP Request.initial-request | #3.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.TextSummarizerApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="initial-request | #1" value="STOPPED" />
+              <entry key="initial-request | #2" value="STOPPED" />
+              <entry key="initial-request | #3" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TextSummarizerApplication">
+    <configuration name="initial-request | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/tests/initial-request.http" executionIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="initial-request | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/tests/initial-request.http" executionIdentifier="#2" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="initial-request | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/tests/initial-request.http" executionIdentifier="#3" index="3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="practice-projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="practice-projects" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TextSummarizerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="practice-projects" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.apps.textsummarizer.TextSummarizerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.initial-request | #3" />
+        <item itemvalue="HTTP Request.initial-request | #2" />
+        <item itemvalue="HTTP Request.initial-request | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f084bfdf-93ad-48b6-a97e-52ff59c8f592" name="Changes" comment="" />
+      <created>1791001896374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791001896374</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

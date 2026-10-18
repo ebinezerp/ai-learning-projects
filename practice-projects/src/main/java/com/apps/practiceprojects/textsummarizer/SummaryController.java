@@ -1,4 +1,4 @@
-package com.apps.textsummarizer;
+package com.apps.practiceprojects.textsummarizer;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

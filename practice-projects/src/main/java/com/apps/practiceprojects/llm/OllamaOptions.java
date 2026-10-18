@@ -1,4 +1,4 @@
-package com.apps.textsummarizer;
+package com.apps.practiceprojects.llm;
 
 public record OllamaOptions(float temperature) {
 }

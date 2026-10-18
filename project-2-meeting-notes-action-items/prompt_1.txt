@@ -1,0 +1,32 @@
+Generate the structured meeting notes based on given recorded meeting notes during meeting. 
+
+Input: Meeting notes, recorded during meeting
+
+<meeting_notes>
+[Notes goes here]
+</meeting_notes>
+
+Output format: 
+
+1. First section titled, "Summary" of the meeting with max of 150 words. Keep the summary short with key points.  
+
+2. second section titled, "Mentioned Persons" should list all the persons named in the notes in the ascending format of alphabet in numeric bullet points. 
+
+3. Third section titled, "Action Items". Each action item should have title by not exceeding 100 characters. In each action item, should have follow points.
+    a. Issue:  which explains the issue/action to address
+    b. Action: Which steps are decided to do address that issue. 
+    c. Responsible: Who owns and delivers those steps
+    d. Due: When will this actions be delivered and preserve the wording from the input.  
+
+4. Fourth section titled, "Decision and deffered work", explain if any final decision were taken on any task and if any other work/action is deffered
+
+
+Note/Rules: 
+
+1. Use only the information from notes. 
+2. Don't halutinate. 
+3. Preseve the wording from notes. 
+4. But there are any gramatical and spelling mistakes rectify them. 
+5. For the things that are not mentioned in notes use "Not Stated".
+
+ 

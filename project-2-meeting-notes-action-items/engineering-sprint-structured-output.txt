@@ -1,0 +1,46 @@
+People mentioned:
+
+1. Arjun
+2. Daniel
+3. Meera
+4. Priya
+
+Summary:
+
+The backend team planned the next sprint for the customer-service application.
+The sprint goal is to improve checkout stability and unblock the mobile release.
+The highest priority is fixing intermittent timeouts in the order lookup API,
+which affect checkout during peak traffic.
+
+Action items:
+
+1. Order lookup API
+
+    Issue: Intermittent timeouts affect checkout during peak traffic.
+    Action: Investigate the database query plan, check whether the index added last month is being used correctly, and share findings.
+    Responsible: Arjun
+    Due: Wednesday (sharing findings; no fix deadline stated).
+
+2. Customer profile endpoint
+
+    Issue: The mobile team needs the new loyalty status field before its next release.
+    Action: Update the API contract for the customer profile endpoint and create a pull request.
+    Responsible: Meera
+    Due: Friday (creating the pull request; no merge or deployment deadline stated).
+
+3. Deployment pipeline
+
+    Issue: The pipeline takes too long, especially during integration tests.
+    Action: Review the slow test cases and propose improvements.
+    Responsible: Daniel
+    Due: Next Monday (reviewing the slow test cases and proposing improvements).
+
+4. Notification-service refactor follow-up
+
+    Action: Create a follow-up ticket for the refactor and move it to the backlog.
+    Responsible: Priya
+    Due: Not stated.
+
+Decisions and deferred work:
+
+1. Do not start the notification-service refactor this sprint because current production issues are more urgent. A future start date is not stated.

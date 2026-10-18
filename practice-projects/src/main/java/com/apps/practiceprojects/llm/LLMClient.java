@@ -1,4 +1,4 @@
-package com.apps.textsummarizer;
+package com.apps.practiceprojects.llm;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
